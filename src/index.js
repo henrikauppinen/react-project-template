@@ -1,3 +1,2 @@
-var el = document.createElement('h1');
-el.innerHTML = 'App';
-document.body.appendChild(el);
+import React from 'react';
+import ReactDOM from 'react-dom';
